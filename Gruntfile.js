@@ -22,7 +22,6 @@ module.exports = function(grunt) {
 						'lib/js/thirdparty/jquery.xdomainrequest.js',
                         'lib/js/thirdparty/codemirror.js',
                         'lib/js/thirdparty/aws-iot-sdk-browser-bundle.js',
-                        'lib/js/thirdparty/AWS-Freeboard-DataSource-Plugin.js',
                     ]
                 ],
                 dest : 'js/freeboard.thirdparty.js'
